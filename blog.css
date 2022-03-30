@@ -5,6 +5,8 @@ html {
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
+}
+body {
     background-color: #efefef;
     padding: 10px;
     margin: 0;
