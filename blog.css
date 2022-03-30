@@ -175,9 +175,10 @@ iframe, audio {
     margin: 0 auto;
     border: 3px solid #3fb6b2;
 }
-.imggms {
+.imggms img {
     background-image: url("gms/1574091421_archive_2019_Noviembre_Fotos_SEO_videogames_salud.jpg");
     background-size: cover;
+    display: block;
 }
 
 
