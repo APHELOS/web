@@ -212,3 +212,15 @@ input, textarea {
 input:hover {
     background-color: #D79839;
 }
+#contacto img {
+    height: 50px;
+    width: 50px;
+    marging-left: 7px;
+    marging-right: 7px;
+}
+#contacto img:hover {
+    opacity: 0.8;
+}
+#contacto {
+    text-align: center;
+}
