@@ -175,6 +175,11 @@ iframe, audio {
     margin: 0 auto;
     border: 3px solid #3fb6b2;
 }
+.imggms img {
+    width: 100%;
+    object-fit: cover;
+}
+
 
 .listimg img {
     width: 100%;
