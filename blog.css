@@ -171,8 +171,8 @@ iframe, audio {
 .listimg img {
     width: 100%;
     objet-fit: cover;
-    width: 200px;
-    height: 300px;
+    width: 400px;
+    height: 500px;
     margin-right: 10px;
     display: block;
 }
