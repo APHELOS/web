@@ -252,3 +252,8 @@ input:hover {
 #contacto {
     text-align: center;
 }
+.copyright {
+    font-family: 'Handlee', bold;
+    font-size: 8pt;
+}
+
