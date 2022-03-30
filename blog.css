@@ -142,7 +142,7 @@ li {
     font-weight: bold;
 }
 #foto {
-    background-image: url("img/IMG_20200421_154042.png");
+    
     background-size: contain;
 }
 progress {
@@ -173,7 +173,7 @@ hr {
     background: #f36f48;
 }
 #ima {
-    background-image: url("img/Naruto_Shippuuden_Uzumaki_Naruto_Namikaze_Minato_crying_Rasengan_anime-152383.jpg");
+    
     background-size: cover;
 }
 #lol {
