@@ -167,6 +167,21 @@ iframe, audio {
     margin: 0 auto;
     border: 3px solid #3fb6b2;
 }
+
+.listimg img {
+    width: 100%;
+    objet-fit: cover;
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+    display: block;
+}
+.listimg {
+    display: flex;
+    overflow-y: auto;
+}
+
+
 hr {
     border: 0;
     height: 1px;
