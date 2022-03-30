@@ -176,6 +176,7 @@ iframe, audio {
     border: 3px solid #3fb6b2;
 }
 .imggms img {
+    object-fit: cover;
     display: block;
     margin: auto;
     top: 10px;
@@ -184,7 +185,7 @@ iframe, audio {
 
 .listimg img {
     width: 100%;
-    objet-fit: cover;
+    object-fit: cover;
     width: 400px;
     height: 500px;
     margin-right: 10px;
