@@ -177,9 +177,9 @@ iframe, audio {
 }
 .imggms img {
     object-fit: cover;
+    padding: 5px;
     display: block;
     margin: auto;
-    top: 10px;
 }
 
 
