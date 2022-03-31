@@ -68,10 +68,10 @@ p {
     border-radius: 10px;
     opacity: 0.7;
 }
-#naveg: link{
+a: link{
     text-decoration: none;
 }
-#naveg: active{
+a: active{
     color: yellow;
     background-color: transparent;
 }
